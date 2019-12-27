@@ -26,7 +26,7 @@ LeetCode
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/)                  |                                                    |       | Medium     |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |                                                    |       | Medium     |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |                                                    |       | Easy       |
-| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./code/0021-Merge Two Sorted Lists/0021.cpp) |       | Easy       |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./code/0021-Merge-Two-Sorted-Lists/0021.cpp) |       | Easy       |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |                                                    |       | Medium     |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |                                                    |       | Hard       |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |                                                    |       | Medium     |
@@ -141,7 +141,7 @@ LeetCode
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)    |                                                    |       | Medium     |
 | 0134 | [Gas Station](https://leetcode.com/problems/gas-station/)    |                                                    |       | Medium     |
 | 0135 | [Candy](https://leetcode.com/problems/gas-station/)          |                                                    |       | Hard       |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](./code/0136-Single Number/0136.cpp)          |       | Easy       |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [c++](./code/0136-Single-Number/0136.cpp)          |       | Easy       |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |                                                    |       | Medium     |
 | 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |                                                    |       | Medium     |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break/)      |                                                    |       | Medium     |
