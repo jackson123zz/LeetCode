@@ -25,7 +25,7 @@ LeetCode
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |                                                    |       | Medium     |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/)                  |                                                    |       | Medium     |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |                                                    |       | Medium     |
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |                                                    |       | Easy       |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](./code/0020-Valid-Parentheses/0020.cpp)      |       | Easy       |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./code/0021-Merge-Two-Sorted-Lists/0021.cpp) |       | Easy       |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |                                                    |       | Medium     |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |                                                    |       | Hard       |
