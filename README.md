@@ -75,7 +75,7 @@ LeetCode
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)      |                        |       | Easy       |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) |                        |       | Hard       |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              |                        |       | Easy       |
-| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |                        |       | Easy       |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [c++](./code/0070.cpp) |       | Easy       |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |                        |       | Medium     |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) |                        |       | Hard       |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |                        |       | Medium     |
@@ -227,7 +227,7 @@ LeetCode
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |                        |       | Easy       |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) |                        |       | Medium     |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)    |                        |       | Easy       |
-| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |                        |       | Medium     |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [c++](./code/0287.cpp) |       | Medium     |
 | 0289 | [Game of Life](https://leetcode.com/problems/game-of-life/)  |                        |       | Medium     |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  |                        |       | Easy       |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |                        |       | Hard       |
@@ -237,7 +237,7 @@ LeetCode
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |                        |       | Medium     |
 | 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |                        |       | Hard       |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |                        |       | Medium     |
-| 0322 | [Coin-Change](https://leetcode.com/problems/coin-change/)    |                        |       | Medium     |
+| 0322 | [Coin-Change](https://leetcode.com/problems/coin-change/)    | [c++](./code/0322.cpp) |       | Medium     |
 | 0325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) |                        |       | Medium     |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |                        |       | Medium     |
 | 0331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/odd-even-linked-list/) |                        |       | Medium     |
@@ -286,6 +286,7 @@ LeetCode
 | 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) |                        |       | Medium     |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) |                        |       | Medium     |
 | 0687 | [Longest Univalue Path](https://leetcode.com/problems/redundant-connection/) |                        |       | Easy       |
+| 0697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [c++](./code/0697.cpp) |       | Easy       |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      |                        |       | Easy       |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |                        |       | Medium     |
 | 0742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) |                        |       | Medium     |
@@ -435,7 +436,7 @@ LeetCode
 | 1066 | [Campus Bikes II](https://leetcode.com/contest/biweekly-contest-1/problems/campus-bikes-ii/) |                        |       | Medium     |
 | 1067 | [Digit Count in Range](https://leetcode.com/contest/biweekly-contest-1/problems/digit-count-in-range/) |                        |       | Medium     |
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) |                        |       | Medium     |
-| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) |                        |       | Easy       |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [c++](./code/1078.cpp) |       | Easy       |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) |                        |       | Easy       |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/occurrences-after-bigram/) |                        |       | Medium     |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |                        |       | Medium     |
@@ -465,7 +466,7 @@ LeetCode
 | 1119 | [Remove Vowels from a String](https://leetcode.com/contest/biweekly-contest-4/problems/remove-vowels-from-a-string/) |                        |       | Easy       |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/contest/biweekly-contest-4/problems/maximum-average-subtree/) |                        |       | Medium     |
 | 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/contest/biweekly-contest-4/problems/divide-array-into-increasing-sequences/) |                        |       | Hard       |
-| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) |                        |       | Easy       |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [c++](./code/1122.cpp) |       | Easy       |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) |                        |       | Medium     |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) |                        |       | Medium     |
 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) |                        |       | Hard       |
