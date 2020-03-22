@@ -93,7 +93,7 @@ LeetCode
 | 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |                        |       | Hard       |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list/) |                        |       | Medium     |
 | 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) |                        |       | Hard       |
-| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](./c)             |       | Easy       |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](./code/0088.cpp) |       | Easy       |
 | 0089 | [Gray Code](https://leetcode.com/problems/gray-code/)        |                        |       | Medium     |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/)      |                        |       | Medium     |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    |                        |       | Medium     |
@@ -276,7 +276,7 @@ LeetCode
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) |                        |       | Medium     |
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) |                        |       | Medium     |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |                        |       | Easy       |
-| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |                        |       | Easy       |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [c++](./code/0543.cpp) |       | Easy       |
 | 0547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) |                        |       | Medium     |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |                        |       | Medium     |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/subarray-sum-equals-k/) |                        |       | Easy       |
@@ -336,7 +336,7 @@ LeetCode
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match/) |                        |       | Easy       |
 | 0943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) |                        |       | Hard       |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) |                        |       | Easy       |
-| 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |                        |       | Medium     |
+| 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [c++](./code/0945.cpp) |       | Medium     |
 | 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) |                        |       | Medium     |
 | 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/validate-stack-sequences/https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) |                        |       | Medium     |
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) |                        |       | Medium     |
