@@ -271,6 +271,7 @@ LeetCode
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/)        |                         |       | Hard       |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |                         |       | Medium     |
 | 0474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) |                         |       | Medium     |
+| 0485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | [c++](./code/0485.cpp)  |       | Easy       |
 | 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |                         |       | Medium     |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum/)      |                         |       | Medium     |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) |                         |       | Easy       |
@@ -286,6 +287,7 @@ LeetCode
 | 0652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) |                         |       | Medium     |
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |                         |       | Easy       |
 | 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) |                         |       | Medium     |
+| 0661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/) | [c++](./code/0661.cpp)  |       | Easy       |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) |                         |       | Medium     |
 | 0687 | [Longest Univalue Path](https://leetcode.com/problems/redundant-connection/) |                         |       | Easy       |
 | 0697 | [Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/) | [c++](./code/0697.cpp)  |       | Easy       |
