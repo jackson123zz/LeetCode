@@ -313,6 +313,7 @@ LeetCode
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) |                         |       | Easy       |
 | 0876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [c++](./code/0876.cpp)  |       | Easy       |
 | 0891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) |                         |       | Hard       |
+| 0892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [c++](./code/0892.cpp)  |       | Easy       |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) |                         |       | Medium     |
 | 0902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) |                         |       | Hard       |
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) |                         |       | Medium     |
@@ -393,7 +394,7 @@ LeetCode
 | 0996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) |                         |       | Hard       |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) |                         |       | Easy       |
 | 0998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) |                         |       | Medium     |
-| 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) |                         |       | Easy       |
+| 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [c++](./code/0999.cpp)  |       | Easy       |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) |                         |       | Hard       |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |                         |       | Easy       |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) |                         |       | Medium     |
